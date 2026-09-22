@@ -1,6 +1,8 @@
+
+
 ```markdown
 <!-- =========================================================
-     DREAM MENTOR | GITHUB PROFILE README
+     DREAM MENTOR — GITHUB PROFILE README
      GitHub: https://github.com/NonnyEwoh
      ========================================================= -->
 
@@ -16,64 +18,69 @@
 <!-- 2. ANIMATED TYPING SVG -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&color=39FF14&center=true&vCenter=true&width=1100&height=55&lines=Cybersecurity+Analyst;Director+of+Training+%40+Webstack+ICT+Global;Community+Manager+%40+MindTheGap+Anambra;ICANN+Anti-Phishing+Volunteer;Artificial+Intelligence+Advocate;Linux+Enthusiast;Ethical+Hacker+in+Training;Public+Speaker+and+Tech+Mentor;Forex+Trader+%26+Financial+Market+Analyst;Empowering+Africa+Through+Technology+and+Cybersecurity"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1100&color=39FF14&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=1100&height=55&lines=Cybersecurity+Analyst;Director+of+Training+%40+Webstack+ICT+Global;Community+Manager+%40+MindTheGap+Anambra;ICANN+Anti-Phishing+Volunteer;Artificial+Intelligence+Advocate;Linux+Enthusiast;Ethical+Hacker+in+Training;Public+Speaker+and+Tech+Mentor;Forex+Trader+%26+Financial+Market+Analyst;Empowering+Africa+Through+Technology+and+Cybersecurity"
     alt="Dream Mentor Professional Roles"
   />
 </p>
 
 <!-- 3. SHORT INTRODUCTION -->
-## 👋 Hello, I'm Dream Mentor
+<h2 align="center">Hello, I'm Dream Mentor 👋</h2>
 
-I am building my career in **cybersecurity** with a focus on practical security learning, ethical hacking, technology education, and mentorship.
+<p align="center">
+  <strong>Cybersecurity Analyst • Ethical Hacker • Technology Educator • Tech Mentor</strong>
+</p>
 
-My interests include **cybersecurity, ethical hacking, artificial intelligence, Linux, digital transformation, mentorship, and community building**. I am focused on developing practical skills, building useful projects, sharing knowledge, and continuously improving as a technology professional.
+<p align="center">
+  I am building my career in cybersecurity through practical learning, hands-on labs,
+  security research, technology education, and continuous development.
+  I am particularly passionate about cybersecurity, ethical hacking, artificial intelligence,
+  Linux, digital transformation, mentorship, and community building.
+</p>
 
 ---
 
 <!-- 4. ABOUT ME -->
 ## 👨‍💻 About Me
 
-- 🔐 Building my career in **cybersecurity** through continuous learning and practical experience.
-- 🛡️ Developing practical skills in **ethical hacking and security analysis**.
-- 🧪 Enjoying hands-on **cybersecurity labs and security research**.
+- 🔐 Building my career in **cybersecurity** through practical and continuous learning.
+- 🛡️ Developing hands-on skills in **ethical hacking and security analysis**.
+- 🧪 Enjoy working with controlled **cybersecurity labs and security research environments**.
 - 🎓 Teaching and mentoring beginners interested in **technology and cybersecurity**.
 - 🌍 Passionate about helping young people develop **relevant digital skills**.
-- 🤖 Interested in the intersection of **cybersecurity, artificial intelligence, and technology education**.
-- 🐧 Exploring and developing skills in **Linux-based environments**.
-- 🤝 Interested in **community building, knowledge sharing, and digital transformation**.
+- 🤖 Exploring the intersection of **cybersecurity, artificial intelligence, and technology education**.
+- 🐧 Comfortable learning and experimenting in **Linux-based environments**.
+- 🤝 Interested in **community building, knowledge sharing, and technology-driven development**.
 
 ---
 
 <!-- 5. CYBERSECURITY -->
 ## 🛡️ Cybersecurity
 
-My current cybersecurity learning and development areas include:
+| Area | Focus |
+|---|---|
+| 🔐 Ethical Hacking | Learning ethical security testing methodologies |
+| 🎯 Penetration Testing | Developing practical penetration-testing skills |
+| 🔎 Vulnerability Assessment | Identifying and understanding security weaknesses |
+| 🌐 Network Security | Studying network protocols, reconnaissance, and defenses |
+| 🕸️ Web Application Security | Learning web security testing and common vulnerabilities |
+| 📊 Security Analysis | Analyzing systems, traffic, vulnerabilities, and security events |
+| 🧠 Security Awareness | Understanding security principles and responsible practices |
+| 🐧 Linux Security | Linux administration, security concepts, and hardening |
+| 🔍 Reconnaissance | Information gathering and attack-surface discovery |
+| ⚠️ Threat Analysis | Studying threats, attack techniques, and defensive concepts |
 
-- 🔐 **Ethical Hacking**
-- 🎯 **Penetration Testing**
-- 🔎 **Vulnerability Assessment**
-- 🌐 **Network Security**
-- 🕸️ **Web Application Security**
-- 📊 **Security Analysis**
-- 🧠 **Security Awareness**
-- 🐧 **Linux Security**
-- 🔍 **Reconnaissance**
-- ⚠️ **Threat Analysis**
-
-> These areas represent my ongoing learning and practical development. I do not claim mastery, certification, or professional experience beyond what is stated on this profile.
+> **Note:** This profile represents an active learning journey. Skills listed here reflect areas of study and practical development rather than claims of mastery or certification.
 
 ---
 
 <!-- 6. TOOLS & TECHNOLOGIES -->
 ## 🧰 Tools & Technologies
 
-### Cybersecurity Tools
+### Cybersecurity & Security Testing
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,nmap,python,bash,git,github,vscode,html,css" alt="Cybersecurity and Development Technologies" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
@@ -81,37 +88,47 @@ My current cybersecurity learning and development areas include:
   <img src="https://img.shields.io/badge/Websploit-111111?style=for-the-badge&logo=linux&logoColor=white" alt="Websploit" />
 </p>
 
-**Current technology stack:**
+### Programming, Systems & Development
 
-`Kali Linux` · `Linux` · `Nmap` · `Metasploit` · `Burp Suite` · `OWASP ZAP` · `Searchsploit` · `Websploit` · `Python` · `Bash` · `Git` · `GitHub` · `VS Code` · `HTML` · `CSS`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,html,css" alt="Linux Python Bash Git GitHub VS Code HTML CSS" />
+</p>
+
+<p align="center">
+  <sub>
+    Current tools and technologies are part of my ongoing practical cybersecurity and technology development journey.
+  </sub>
+</p>
 
 ---
 
 <!-- 7. CURRENTLY LEARNING -->
 ## 📚 Currently Learning
 
-I am continuously developing my knowledge through structured learning, practical labs, experimentation, and security-focused projects.
+<p align="center">
+  <strong>Learning → Practicing → Building → Improving</strong>
+</p>
 
-| Area | Development Focus |
-|---|---|
-| 🔐 Ethical Hacking | Advanced ethical hacking techniques |
-| 🎯 Penetration Testing | Practical penetration-testing methodology |
-| 🌐 Web Security | Web application security testing |
-| 🌍 Network Security | Network security and analysis |
-| 🔎 Vulnerability Assessment | Identifying and understanding vulnerabilities |
-| 🐍 Python | Python for cybersecurity and automation |
-| 🐧 Linux | Linux administration and security |
-| 🤖 Artificial Intelligence | AI concepts and practical applications |
-| ⚙️ Security Automation | Automating cybersecurity tasks and workflows |
+- 🔐 Advanced Ethical Hacking
+- 🎯 Penetration Testing
+- 🌐 Web Application Security
+- 🌍 Network Security
+- 🔎 Vulnerability Assessment
+- 🐍 Python for Cybersecurity
+- 🐧 Linux
+- 🤖 Artificial Intelligence
+- ⚙️ Security Automation
+
+> My focus is on developing practical understanding through structured learning, labs, experimentation, and responsible security testing.
 
 ---
 
 <!-- 8. HANDS-ON CYBERSECURITY -->
 ## 🧪 Hands-On Cybersecurity
 
-I believe cybersecurity knowledge becomes stronger through responsible hands-on practice.
+I believe cybersecurity skills are strengthened through practical experience.
 
-My practical learning includes controlled environments involving:
+My hands-on learning includes controlled environments involving:
 
 - 🐧 **Kali Linux**
 - 💻 **Metasploitable 2**
@@ -121,25 +138,25 @@ My practical learning includes controlled environments involving:
 - 🛠️ Exploitation in authorized lab environments
 - 📊 Security analysis
 
-All security testing and exploitation activities are conducted strictly for **ethical, educational, and authorized security-testing purposes**.
+All security testing and exploitation activities are conducted for **ethical, educational, and authorized security-testing purposes**.
 
 ---
 
 <!-- 9. FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-I am building and documenting projects as I develop my practical cybersecurity and technology skills.
+I am continuously building practical projects as I develop my cybersecurity and technology skills.
 
-| Project | Repository |
-|---|---|
-| 🛡️ **Cybersecurity Labs** | `[CYBERSECURITY_LABS_REPOSITORY_URL]` |
-| 🐍 **Python Security Projects** | `[PYTHON_SECURITY_REPOSITORY_URL]` |
-| 🌐 **Web Security Projects** | `[WEB_SECURITY_REPOSITORY_URL]` |
-| 🔎 **Vulnerability Research** | `[VULNERABILITY_RESEARCH_REPOSITORY_URL]` |
-| ⚙️ **Security Automation** | `[SECURITY_AUTOMATION_REPOSITORY_URL]` |
-| 📚 **Cybersecurity Learning Resources** | `[CYBERSECURITY_RESOURCES_REPOSITORY_URL]` |
+| Project | Description | Repository |
+|---|---|---|
+| 🛡️ **Cybersecurity Labs** | Practical cybersecurity labs, exercises, and learning notes | `[REPOSITORY_LINK]` |
+| 🐍 **Python Security Projects** | Python-based cybersecurity learning and automation projects | `[REPOSITORY_LINK]` |
+| 🌐 **Web Security Projects** | Authorized web security testing and learning projects | `[REPOSITORY_LINK]` |
+| 🔎 **Vulnerability Research** | Vulnerability analysis, research, and documentation | `[REPOSITORY_LINK]` |
+| ⚙️ **Security Automation** | Projects exploring automation for cybersecurity workflows | `[REPOSITORY_LINK]` |
+| 📚 **Cybersecurity Learning Resources** | Notes, guides, references, and educational resources | `[REPOSITORY_LINK]` |
 
-> Project links will be replaced with the relevant GitHub repositories as projects are developed and published.
+> Project links will be added as each project is developed and published.
 
 ---
 
@@ -175,9 +192,7 @@ I am building and documenting projects as I develop my practical cybersecurity a
 
 I believe practical technology education and cybersecurity knowledge can help people develop meaningful careers, solve real-world problems, and contribute to a safer digital environment.
 
-My approach is simple:
-
-**Learn** new concepts → **Build** practical projects → **Secure** technology responsibly → **Share** knowledge → **Empower** others.
+My goal is to keep learning, build useful projects, share knowledge, and help others grow along the way.
 
 ---
 
@@ -210,9 +225,6 @@ My approach is simple:
 </p>
 
 <p align="center">
-  <sub>Cybersecurity • Technology • Education • Innovation • Leadership</sub>
+  <sub>© Dream Mentor • Cybersecurity • Technology • Education • Innovation</sub>
 </p>
 ```
-
-**Note:** I used `NonnyEwoh` for the GitHub statistics because that is the username you provided. I also kept your LinkedIn, email, X/Twitter, website, and project repositories as placeholders rather than inventing URLs.
-
